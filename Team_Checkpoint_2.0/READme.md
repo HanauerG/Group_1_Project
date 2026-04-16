@@ -13,7 +13,7 @@ Our team is also proposing an excursion that utilizes Federal Housing Finance Ag
 ## Progress and Challenges: 
 
 ## Progress and Challenges:
-Work on the GitHub has imporved after the inital issues noted in checkpoint #1. 
+Work on the GitHub has improved after the initial issues noted in checkpoint #1. 
 
 ## Team Members: 
 All group members have been collaborative and communicative, offering help and ideas on our team project.
